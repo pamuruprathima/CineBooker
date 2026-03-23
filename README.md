@@ -43,83 +43,83 @@ bookmyshow-frontend  → Frontend
 
 ### 🌍 City Selection
 
-![City](./city-selection.png.png)
+![City](./city-selection.png)
 
 ---
 
 ### 🎬 Movies Listing
 
-![Movies](./movies-list.png.png)
+![Movies](./movies-list.png)
 
 ---
 
 ### 🎥 Movie Details
 
-![Details](./movie-details.png.png)
+![Details](./movie-details.png)
 
 ---
 
 ### 🏢 Theatre Selection
 
-![Theatre](./theatre-selection.png.png)
+![Theatre](./theatre-selection.png)
 
 ---
 
 ### 🪑 Seat Selection Popup
 
-![Seat Popup](./seat-popup.png.png)
+![Seat Popup](./seat-popup.png)
 
 ---
 
 ### 🪑 Seat Layout
 
-![Seat Layout](./seat-layout.png.png)
+![Seat Layout](./seat-layout.png)
 
 ---
 
 ### 💳 Payment Page
 
-![Payment Main](./payment-main.png.png)
+![Payment Main](./payment-main.png)
 
 ---
 
 ### 💳 Card Payment
 
-![Card](./payment-card.png.png)
+![Card](./payment-card.png)
 
 ---
 
 ### 💳 UPI Payment
 
-![UPI](./payment-upi.png.png)
+![UPI](./payment-upi.png)
 
 ---
 
 ### 💳 Payment Confirmation
 
-![Confirm](./payment-confirmation.png.png)
+![Confirm](./payment-confirmation.png)
 
 ---
 
 ### 🎟️ Ticket Page
 
-![Ticket](./ticket.png.png)
+![Ticket](./ticket.png)
 
 ---
 ## 🔐 Admin Module
 
 ## 🏠 User Home
-![User Home](./user-home.png.png)
+![User Home](./user-home.png)
 
 
 ### 🔑 Admin Login
-![Admin Login](./admin-login.png.png)
+![Admin Login](./admin-login.png)
 
 ### 🎬 Admin Dashboard - Movies
 ![Admin Movies](./admin-dashboard-movies.png)
 
 ### 🏢 Admin Dashboard - Theatres & Shows
-![Admin Theatres](./admin-dashboard-theatres-show.png.png)
+![Admin Theatres](./admin-dashboard-theatres-show.png)
 
 ---
 
