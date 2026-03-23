@@ -116,7 +116,7 @@ bookmyshow-frontend  → Frontend
 ![Admin Login](./admin-login.png.png)
 
 ### 🎬 Admin Dashboard - Movies
-![Admin Movies](./admin-dashboard-movies.png.png)
+![Admin Movies](./admin-dashboard-movies.png)
 
 ### 🏢 Admin Dashboard - Theatres & Shows
 ![Admin Theatres](./admin-dashboard-theatres-show.png.png)
