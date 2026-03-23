@@ -49,7 +49,7 @@ bookmyshow-frontend  → Frontend
 
 ### 🎬 Movies Listing
 
-![Movies](./movies-list.png)
+![Movies](./movies-list.png.png)
 
 ---
 
