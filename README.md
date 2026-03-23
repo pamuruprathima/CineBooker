@@ -14,6 +14,12 @@ A full-stack movie ticket booking application inspired by BookMyShow, allowing u
 * 💳 Multiple payment options (Card / UPI)
 * 🎟️ Ticket generation with QR code
 
+### 🔐 Admin Features
+* 🔑 Secure admin login
+* 🎬 Add / Edit / Delete movies
+* 🏢 Manage theatres
+* 🎥 Create shows and generate seats
+
 ---
 
 ## 🛠️ Tech Stack
@@ -100,6 +106,23 @@ bookmyshow-frontend  → Frontend
 ![Ticket](./ticket.png.png)
 
 ---
+## 🔐 Admin Module
+
+## 🏠 User Home
+![User Home](./user-home.png)
+
+
+### 🔑 Admin Login
+![Admin Login](./admin-login.png)
+
+### 🎬 Admin Dashboard - Movies
+![Admin Movies](./admin-dashboard-movies.png)
+
+### 🏢 Admin Dashboard - Theatres & Shows
+![Admin Theatres](./admin-dashboard-theatres-show.png)
+
+---
+
 
 ## ⚙️ Installation & Setup
 
@@ -129,10 +152,11 @@ npm start
 
 ## 💡 Future Improvements
 
-* 🔐 User authentication
+* 👤 User authentication (login/signup for users)
 * 📱 Mobile responsive UI
-* 🎫 Booking history
+* 🎫 Booking history for users
 * 📧 Email ticket confirmation
+* 🔒 Role-based access (Admin/User separation enhancement)
 
 ---
 
