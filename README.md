@@ -109,17 +109,17 @@ bookmyshow-frontend  → Frontend
 ## 🔐 Admin Module
 
 ## 🏠 User Home
-![User Home](./user-home.png)
+![User Home](./user-home.png.png)
 
 
 ### 🔑 Admin Login
-![Admin Login](./admin-login.png)
+![Admin Login](./admin-login.png.png)
 
 ### 🎬 Admin Dashboard - Movies
-![Admin Movies](./admin-dashboard-movies.png)
+![Admin Movies](./admin-dashboard-movies.png.png)
 
 ### 🏢 Admin Dashboard - Theatres & Shows
-![Admin Theatres](./admin-dashboard-theatres-show.png)
+![Admin Theatres](./admin-dashboard-theatres-show.png.png)
 
 ---
 
